@@ -1,0 +1,70 @@
+true
+true
+
+
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6ae1aae2a9f01bba657035b3'),
+    '1': ObjectId('6ae1aae2a9f01bba657035b4'),
+    '2': ObjectId('6ae1aae2a9f01bba657035b5')
+  }
+}
+
+
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6ae1aae2a9f01bba657035b6'),
+    '1': ObjectId('6ae1aae2a9f01bba657035b7'),
+    '2': ObjectId('6ae1aae2a9f01bba657035b8'),
+    '3': ObjectId('6ae1aae2a9f01bba657035b9'),
+    '4': ObjectId('6ae1aae2a9f01bba657035ba'),
+    '5': ObjectId('6ae1aae2a9f01bba657035bb')
+  }
+}
+
+
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1,
+  modifiedCount: 1,
+  upsertedCount: 0
+}
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 2,
+  modifiedCount: 2,
+  upsertedCount: 0
+}
+
+
+course_id_1
+
+
+
+
+
+[
+  {
+    total_students: 3,
+    course_id: 'CS101',
+    course_name: 'Cyber Security Fundamentals',
+    average_marks: 83.33
+  },
+  {
+    total_students: 2,
+    course_id: 'CS102',
+    course_name: 'Data Structures & Algorithms',
+    average_marks: 85
+  },
+  {
+    total_students: 1,
+    course_id: 'CS103',
+    course_name: 'Database Management Systems',
+    average_marks: 88
+  }
+]
+Ready
